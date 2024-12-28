@@ -4,8 +4,7 @@ A passionate frontend developer from Nigeria. I specialize in building intuitive
 </h3>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="wadagift" width="100%"/>
-</p>
+  
 
 ---
 
@@ -16,9 +15,6 @@ A passionate frontend developer from Nigeria. I specialize in building intuitive
 </a>
 <a href="https://www.linkedin.com/in/wada-gift-b62967164?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
-</a>
-<a href="https://dribbble.com/wadagift" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dribbble/dribbble-original.svg" alt="Dribbble" height="30" width="40"/>
 </a>
 </p>
 
