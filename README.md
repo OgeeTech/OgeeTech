@@ -34,7 +34,7 @@ My engineering philosophy prioritizes system design clarity, robust API architec
 - Integrating AI-driven content generation and smart chatbots into full-stack applications.
 - Deepening expertise in high-concurrency database management and fintech security standards.
 
----
+
 
 
 
