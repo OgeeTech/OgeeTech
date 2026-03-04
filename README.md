@@ -36,11 +36,21 @@ My engineering philosophy prioritizes system design clarity, robust API architec
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Engineering Analytics & Contributions
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OgeeTech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgeeTech&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/ogeetech">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogeetech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ogeetech">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogeetech&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
 </div>
 
 ---
