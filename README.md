@@ -44,14 +44,15 @@ My engineering philosophy prioritizes system design clarity, robust API architec
 
 <br />
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/OgeeTech">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=OgeeTech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=OgeeTech&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/OgeeTech">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgeeTech&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgeeTech&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
-</div>
+</p>
+
 
 
 
